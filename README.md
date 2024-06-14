@@ -60,3 +60,4 @@ https://www.figma.com/design/BDUnKGjIt0bIGNcmICcy16/%D0%A2%D0%B5%D1%81%D1%82%D0%
 Чистота в коде, единый стиль, минимальная обвязка (лэнг-файлы создавать не нужно и т.п.).
 Интерпретатор php >=7.1.
 Использование D7.
+![alt text](https://github.com/KtoYaTo/sibintek/blob/main/img1.jpg?raw=true)
